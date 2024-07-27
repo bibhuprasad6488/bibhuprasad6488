@@ -1,10 +1,5 @@
 ## Hi 👋 I'm Bibhu Prasad 😄
 
-<!--
-**bibhuprasad6488/bibhuprasad6488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-A
 - 🔭 I’m currently working as **Full Stack Developer** 
 Technologies used - Next js, Redux Toolkit, Chart js, React hook form, html5, css3, Bootstrap5
 - 🌱 I’m currently learning 
@@ -12,5 +7,4 @@ Technologies used - Next js, Redux Toolkit, Chart js, React hook form, html5, cs
 - 🤔 I’m looking for a new **Full Stack Developer** Role
 - 💬 Ask me at: +91 7682918013
 - 📫 How to reach me: bibhuprasadmohapatra3@gmail.com
-- 😄 Pronouns: Mr
--->
+- 😄 Pronouns: Mr.

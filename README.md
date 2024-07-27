@@ -1,4 +1,7 @@
-![Alt text](buttons/Bibhu_Prasad_Mohapatra.png)(https://www.maastrixsolutions.com/)
+<a href="https://www.maastrixsolutions.com/">
+  <img src="buttons/Bibhu_Prasad_Mohapatra.png" alt="Profile Image" width="300"/>
+</a>
+
 
 ## Hi 👋 I'm Bibhu Prasad 😄
 

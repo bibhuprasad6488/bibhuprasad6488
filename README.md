@@ -3,7 +3,7 @@
 </a>
 
 
-<h2 style="text-align:center;"> I'm Bibhu Prasad 😄 </h2>
+<h2 class="text-center"> I'm Bibhu Prasad 😄 </h2>
 
 - 🔭 I’m currently working as **Full Stack Developer**
   Technologies used - HTML5, CSS3, Bootstrap5, Ajax, Jquery, JavaScript, Json, Rest APIs, PHP.

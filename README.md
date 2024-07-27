@@ -1,5 +1,5 @@
 <a href="https://www.maastrixsolutions.com/">
-  <img src="buttons/bibhu_prasad.png" alt="Profile Image" width="300"/>
+  <img src="buttons/bibhu_prasad.png" alt="Profile Image" />
 </a>
 
 

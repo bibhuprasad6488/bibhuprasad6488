@@ -1,5 +1,5 @@
 <a href="https://in.linkedin.com/in/bibhu-prasad-mohapatra-638b88223">
-  <img src="buttons/bibhu_prasad.png" alt="Profile Image" />
+  <img src="buttons/linked.png" alt="Profile Image" />
 </a>
 
 

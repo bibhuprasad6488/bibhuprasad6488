@@ -21,6 +21,9 @@
 <a href="https://in.linkedin.com/in/bibhu-prasad-mohapatra-638b88223">
   <img src="buttons/linkedin.svg" alt="Linkedin Image" />
 </a>
-<a href="https://in.linkedin.com/in/bibhu-prasad-mohapatra-638b88223">
+<a href="https://x.com/BibhuPrasad6458/status/1504504250507808783">
   <img src="buttons/twitter.svg" alt="Twitter Image" />
+</a>
+<a href="https://in.linkedin.com/in/bibhu-prasad-mohapatra-638b88223">
+  <img src="buttons/insta.svg" alt="Twitter Image" />
 </a>

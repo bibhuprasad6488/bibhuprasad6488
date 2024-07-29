@@ -1,4 +1,4 @@
-<a href="https://in.linkedin.com/in/bibhu-prasad-mohapatra-638b88223">
+<a href="#">
   <img src="buttons/linked.png" alt="Profile Image" />
 </a>
 

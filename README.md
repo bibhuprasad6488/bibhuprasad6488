@@ -6,14 +6,14 @@
 <h2 class="text-center"> I'm Bibhu Prasad 😄 </h2>
 
 **About Me:**
+- 😄 Pronouns: Mr.
 - 🔭 I’m currently working as **Full Stack Developer**
-  Technologies used - HTML5, CSS3, Bootstrap5, Ajax, Jquery, JavaScript, Json, Rest APIs, PHP.
-  Database used - Mysql, Mysql Workbench MongoDB Composer.
+  Technologies used - HTML5, CSS3, Bootstrap5, Ajax, Jquery, JavaScript, JSON, Rest APIs, PHP, Laravel, Codeigniter.
+  The database used - Mysql, Mysql Workbench MongoDB Compass.
 - 🌱 I’m currently learning
   React js.
 - 🤔 I’m looking for a new **Full Stack Developer** Role
 - 📫 How to reach me: bibhuprasadmohapatra3@gmail.com
-- 😄 Pronouns: Mr.
 
 <b>**Connect with Me:**</b>
 <br/>

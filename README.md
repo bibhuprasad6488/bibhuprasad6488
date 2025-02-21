@@ -6,7 +6,7 @@
 <h2 class="text-center"> I'm Bibhu Prasad 😄 </h2>
 
 **About Me:**
-- 😄 Pronouns: Mr.
+- 😄 Pronouns: Mr. Bibhu Prasad Mohapatra
 - 🔭 I’m currently working as **Full Stack Developer**
   Technologies used - HTML5, CSS3, Bootstrap5, Ajax, Jquery, JavaScript, JSON, Rest APIs, PHP, Laravel, Codeigniter.
   The database used - Mysql, Mysql Workbench MongoDB Compass.
